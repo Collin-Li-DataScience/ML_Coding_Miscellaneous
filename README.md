@@ -1,4 +1,4 @@
-# Miscellaneous Programming Projects
+# Miscellaneous ML & Programming Projects
 
 **Author** : Mucong (Collin) Li
 
